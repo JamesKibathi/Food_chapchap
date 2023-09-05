@@ -1,0 +1,14 @@
+@tailwind base;   /* add custom css to any HTML element eg h1 tags */
+@tailwind components;  /* add custom css to more complicated classes eg card, button, badge */
+@tailwind utilities;   /* add custom css to features tailwind doesnt cover by default */
+
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@layer base {
+    button{
+        @apply border border-black rounded-xl px-5 py-1
+    }
+}
