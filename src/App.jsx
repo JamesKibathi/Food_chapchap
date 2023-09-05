@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import Navbar from "./components/Navbar";
 
 function App() {
-
   return (
     <div>
-   <h1>Hello uber Eats</h1>
+      <Navbar />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
