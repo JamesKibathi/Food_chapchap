@@ -1,6 +1,6 @@
 # React + Vite
 
-![Screenshot](screenshot.png)
+![Screenshot](Food-chapchap.png)
 
 ### Run npm install to install the necessary dependencies
 
