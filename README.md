@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Run npm install to install the necessary dependencies
 
-Currently, two official plugins are available:
+Food Chapchap is a highly responsive User Interface (UI) built using React and styled with Tailwind CSS. The UI simulates an online food ordering system,  offering users the capability to filter food items based on categories and prices. Implemented the mobile-first responsive design approach using flexbox and grid layouts. JSON data was used to populate the UI with data and images, simulating the response from an API for a realistic user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@live preview](https://food-chapchap-two.vercel.app/) 
